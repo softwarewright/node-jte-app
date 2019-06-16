@@ -1,0 +1,24 @@
+{
+  "name": "node-jte-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo \"Doing a build from a package.json script\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softwarebywright/node-jte-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/softwarebywright/node-jte-app/issues"
+  },
+  "homepage": "https://github.com/softwarebywright/node-jte-app#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
