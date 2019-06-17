@@ -1,4 +1,4 @@
 libraries {
-    npm-build
-    npm-test
+    npm_build
+    npm_test
 }
